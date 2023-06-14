@@ -33,6 +33,6 @@ public class homeWork3 {
 
         String changedStatus = rus1 <= rus2 ? "decrease" : "increase";
         System.out.println(changedStatus);
-
+        System.out.println("I did it!");
     }
 }
