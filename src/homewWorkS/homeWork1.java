@@ -1,3 +1,4 @@
+package homewWorkS;
 
 public class homeWork1 {
     public static void main(String[] args) {
