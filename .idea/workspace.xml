@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70e0e28c-2b7b-4b25-aeff-b0801dc51c15" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homewWorkS/homeWork4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homewWorkS/homeWork5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homewWorkS/homeWork6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="70e0e28c-2b7b-4b25-aeff-b0801dc51c15" name="Changes" comment="Commit homeWorks 4, 5, 6">
+      <change afterPath="$PROJECT_DIR$/src/homewWorkS/homeWork10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homewWorkS/homeWork7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homewWorkS/homeWork8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homewWorkS/homeWork9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homewWorkS/homeWork1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homewWorkS/homeWork2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeWork3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homewWorkS/homeWork3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homewWorkS/homeWork5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homewWorkS/homeWork5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homewWorkS/homeWork6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homewWorkS/homeWork6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,29 +36,74 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.homeWork5">
-    <configuration name="homeWork4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homewWorkS.homeWork4" />
+}</component>
+  <component name="RunManager" selected="Application.homeWork10">
+    <configuration name="homeWork10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homewWorkS.homeWork10" />
       <module name="PROJECTS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homewWorkS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homeWork5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homewWorkS.homeWork5" />
+    <configuration name="homeWork6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homewWorkS.homeWork6" />
+      <module name="PROJECTS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homewWorkS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homeWork7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homewWorkS.homeWork7" />
+      <module name="PROJECTS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homewWorkS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homeWork8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homewWorkS.homeWork8" />
+      <module name="PROJECTS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homewWorkS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="homeWork9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homewWorkS.homeWork9" />
       <module name="PROJECTS" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.homeWork5" />
-        <item itemvalue="Application.homeWork4" />
+        <item itemvalue="Application.homeWork10" />
+        <item itemvalue="Application.homeWork8" />
+        <item itemvalue="Application.homeWork9" />
+        <item itemvalue="Application.homeWork6" />
+        <item itemvalue="Application.homeWork7" />
       </list>
     </recent_temporary>
   </component>
@@ -93,9 +140,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686845667686</updated>
-      <workItem from="1686845668829" duration="4278000" />
+      <workItem from="1686845668829" duration="5498000" />
+      <workItem from="1686930996825" duration="542000" />
+      <workItem from="1687091675729" duration="6153000" />
+      <workItem from="1687189668406" duration="469000" />
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit homeWorks 4, 5, 6">
+      <created>1686852316235</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686852316235</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,7 +161,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Commit homeWork3 and go" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit homeWork3 and go" />
+    <MESSAGE value="Commit homeWorks 4, 5, 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit homeWorks 4, 5, 6" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

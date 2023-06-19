@@ -12,7 +12,7 @@ public class homeWork5 {
             System.out.println("Warm! ");
         } else if (temperature<=-20) {
             System.out.println("Cold! ");
-        } else if (temperature >=206 && temperature <= -5); {
+        } else if (temperature >=-20 && temperature <= -5); {
             System.out.println("Normal! ");
         }
 
