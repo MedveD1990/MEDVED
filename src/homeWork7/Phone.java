@@ -11,6 +11,9 @@ public class Phone {
         this.weight = weight;
         this.model = model;
     }
+    public Phone (){
+
+    }
     // далее создание метода
     public void receiveCall (boolean receiveCall){
         if (receiveCall) {
