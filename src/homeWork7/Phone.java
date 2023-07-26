@@ -19,7 +19,7 @@ public class Phone {
         if (receiveCall) {
             System.out.println("Звонит " + nameIncoming);
         }else {
-            this.nameIncoming = nameIncoming;
+            System.out.println();
         }
 
     }
