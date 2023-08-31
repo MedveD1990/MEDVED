@@ -1,4 +1,4 @@
-package homewWorkS;
+package homewWork;
 
 public class CardRun {
     public static void main(String[] args) {

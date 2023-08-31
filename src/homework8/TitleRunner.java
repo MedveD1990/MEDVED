@@ -1,7 +1,4 @@
-package Homework8;
-
-import java.lang.reflect.Array;
-import java.util.Arrays;
+package homework8;
 
 
 public class TitleRunner {

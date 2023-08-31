@@ -1,6 +1,4 @@
-package homewWorkS;
-
-import java.util.Scanner;
+package homewWork;
 
 public class Card {
     String name;

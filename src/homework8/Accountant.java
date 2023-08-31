@@ -1,4 +1,4 @@
-package Homework8;
+package homework8;
 
 public class Accountant implements JobTitle {
     private static final String TITLE = "Accountat";

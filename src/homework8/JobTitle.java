@@ -1,4 +1,4 @@
-package Homework8;
+package homework8;
 
 public interface JobTitle {
     String TITLE = "Занимаемая должность такова: ";

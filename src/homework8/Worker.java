@@ -1,7 +1,7 @@
-package Homework8;
+package homework8;
 
-public class Director implements JobTitle {
-    private static final String TITLE = "Director";
+public class Worker implements JobTitle {
+    private static final String TITLE = "Worker";
 
     @Override
     public String getTitle(){return TITLE; }
@@ -10,4 +10,5 @@ public class Director implements JobTitle {
     public void printWork() {
         System.out.println(JobTitle.TITLE + TITLE);
     }
+
 }
